@@ -236,16 +236,6 @@ $ cat motto.txt
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=nileshmishra280&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🏅 Achievements & Certifications
 
 <div align="center">
@@ -272,16 +262,6 @@ $ cat motto.txt
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nileshmishra280/nileshmishra280/output/github-snake.svg"/>
   <img alt="github-snake" src="https://raw.githubusercontent.com/nileshmishra280/nileshmishra280/output/github-snake-dark.svg"/>
 </picture>
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nileshmishra280&theme=tokyo-night&hide_border=true&bg_color=0d1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
