@@ -192,7 +192,7 @@ $ cat motto.txt
 ---
 
 ### 🏦 Online Mortgage Application System-Pawn Prime
-<a href="https://youtu.be/zg9-ML_hOws">
+<a href="https://youtu.be/Q-K5bHFTq2Y">
   <img src="https://img.youtube.com/vi/Q-K5bHFTq2Y/maxresdefault.jpg" alt="Pawn Prime Demo" width="100%"/>
 </a>
 
