@@ -191,9 +191,14 @@ $ cat motto.txt
 
 ---
 
-### 🏦 Online Mortgage Application System
+### 🏦 Online Mortgage Application System-Pawn Prime
+<a href="https://youtu.be/zg9-ML_hOws">
+  <img src="https://img.youtube.com/vi/Q-K5bHFTq2Y/maxresdefault.jpg" alt="Pawn Prime Demo" width="100%"/>
+</a>
 
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nileshmishra280)
+<br/>
+
+▶️ **[Watch Full Demo](https://youtu.be/Q-K5bHFTq2Y)** &nbsp;&nbsp; [![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Bhuvan-Tinani/pawn-prime)
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-Backend-6DB33F?style=flat-square&logo=spring-boot)
 ![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react)
